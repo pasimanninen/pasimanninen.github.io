@@ -15,3 +15,10 @@ ul {
   color:#474747;
   text-indent:4px
 }
+
+#sidebar h2:before {
+  padding-right:0.3em;
+  margin-left:-1.5em;
+  content:"//";
+  color:#9ddcff
+}

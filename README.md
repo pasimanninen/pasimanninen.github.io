@@ -3,7 +3,7 @@
 * TTMS1100 Project
 * TTMS0200 Web Project 1
 * TTMS0700 Web Project 2
-* TTOS0200 Object Oriented Programming
+* [TTOS0200 Object Oriented Programming](https://github.com/JAMK-IT/TTOS0200-Olio-ohjelmointi-media)
 
 ## Courses running in autumn 2017
 
